@@ -1795,13 +1795,14 @@ if page == "🏠 Home":
     st.divider()
 
     st.markdown("### 👨‍🏫 Developed by")
-    st.markdown("**Dr. R. Subramanian**")
-    st.markdown("Assistant Professor  ")
-    st.markdown("Division of Chemistry, School of Sciences  ")
-    st.markdown("Faculty of Engineering and Technology  ")
-    st.markdown("SRM Institute of Science and Technology, Tiruchirappalli")
+    st.markdown("**M.RISHIVARMAN**")
+    st.markdown(" CYBER SECURITY STUDENT")
+    st.markdown(" FRIST YEAR STUDENT ")
+    st.markdown(" SRM Institute of Science and Technology, Tiruchirappalli ")
+    st.markdown(" RA2611030050065 ")
+    st.markdown(" CONTACT : 8680966948 ")
 
-    st.info("📧 **For queries, contact:** rsmani84@gmail.com")
+    st.info("📧 **For queries, contact:** rm2071712@gmail.com ")
 
 
 # ============================================================
